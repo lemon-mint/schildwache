@@ -1,2 +1,2 @@
-# schildwache
-Scalable Identity and Access Management: Schildwache
+# Schildwache
+Scalable Identity and Access Management
